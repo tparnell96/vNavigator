@@ -1,0 +1,16 @@
+
+[
+    {
+        "id": 1,
+        "building": "Crystal Terrace",
+        "floor": "Basement",
+        "filename": "CTB"
+    },
+    {
+        "id": 2,
+        "building": "Crystal Terrace",
+        "floor": "1st",
+        "filename": "CT1"
+    },
+]
+
