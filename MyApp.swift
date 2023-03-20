@@ -1,10 +1,11 @@
-import SwiftUI
 
+import SwiftUI
+@available(iOS 16.0, *)
 @main
-struct MyApp: App {
+struct vNavigator: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FolderListView()
         }
     }
 }
